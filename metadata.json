@@ -1,0 +1,6 @@
+{
+  "name": "Tourverse Gemini",
+  "description": "Protótipo de guia turístico imersivo em Python com Gradio, yt-dlp e Gemini 1.5 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
